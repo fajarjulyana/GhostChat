@@ -47,3 +47,5 @@ Jika Anda memiliki pertanyaan, masukan, atau saran terkait Ghost Chat, Anda dapa
 Terima kasih telah menggunakan Ghost Chat! Kami harap aplikasi ini bermanfaat untuk komunikasi dalam jaringan lokal Anda.
 
 ## Dokmentasi
+
+<img src="capture/capture-1.PNG">
